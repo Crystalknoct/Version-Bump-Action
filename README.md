@@ -5,7 +5,7 @@ As of August 12, 2024 current version of Version-Bump-Bot is: 0.60
 
 For the Python script, the following functionality is as follows.
 
- ##Functionality and use cases of the given `Versioning` class:
+ ## Functionality and use cases of the given `Versioning` class:
 
 1. **GitHub Integration**: The class is designed to interact with GitHub using the provided Github token to access
 repositories, commits, and rate limits. This integration allows version management based on commit data.
